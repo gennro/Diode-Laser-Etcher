@@ -1,3 +1,3 @@
 # Diode-Laser-Etcher
 
-This github contains the files for a open source reprapo style diode laser etcher. 
+This github contains the files for a open source reprap style diode laser etcher. 
